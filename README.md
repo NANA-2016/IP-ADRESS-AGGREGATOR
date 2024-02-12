@@ -20,9 +20,17 @@ This is a tool that is found online.
 
 ![image](https://github.com/NANA-2016/IP-ADRESS-AGGREGATOR/assets/141503408/c2dceb2e-7181-4516-a4be-6cb55786abc2)
 
-
 #### Click on copy to clip board and copy your text anywhere you want .
 
 ![image](https://github.com/NANA-2016/IP-ADRESS-AGGREGATOR/assets/141503408/3ff17af5-54d9-4190-92dc-5ce41b66a228)
 
 ![image](https://github.com/NANA-2016/IP-ADRESS-AGGREGATOR/assets/141503408/acb044ca-b751-42ce-b12e-f21b65387bbe)
+
+### Final page outlook and expected results at each step.
+
+![image](https://github.com/NANA-2016/IP-ADRESS-AGGREGATOR/assets/141503408/5da4aac2-04a5-4adb-a3f9-fc4897df78ec)
+
+![image](https://github.com/NANA-2016/IP-ADRESS-AGGREGATOR/assets/141503408/9d7160c3-a806-44bb-851c-ac39d1a1c26c)
+
+![image](https://github.com/NANA-2016/IP-ADRESS-AGGREGATOR/assets/141503408/338a38c6-5f27-4ace-84c8-c4c6b4ca99a8)
+
